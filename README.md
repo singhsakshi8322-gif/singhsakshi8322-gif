@@ -17,8 +17,8 @@ python. js. barely anything else.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=singhsakshi8322-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0a0014&title_color=FF9EDB&icon_color=D8A7F0&text_color=E0C3FC" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsakshi8322-gif&layout=compact&theme=radical&hide_border=true&bg_color=0a0014&title_color=FF9EDB&text_color=E0C3FC" width="48%"/>
+<img src="https://github-readme-stats-sigma-black.vercel.app/api?username=singhsakshi8322-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0a0014&title_color=FF9EDB&icon_color=D8A7F0&text_color=E0C3FC" width="48%"/>
+<img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=singhsakshi8322-gif&layout=compact&theme=radical&hide_border=true&bg_color=0a0014&title_color=FF9EDB&text_color=E0C3FC" width="48%"/>
 
 <br><br>
 
