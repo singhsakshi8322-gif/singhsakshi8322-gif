@@ -25,6 +25,7 @@ python. js. barely anything else.
 <img src="https://streak-stats.demolab.com?user=singhsakshi8322-gif&theme=radical&hide_border=true&background=0a0014&ring=FF9EDB&fire=D8A7F0&currStreakLabel=FF9EDB" width="70%"/>
 
 <br><br>
+<img src="https://raw.githubusercontent.com/singhsakshi8322-gif/singhsakshi8322-gif/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhsakshi8322-gif&theme=react-dark&bg_color=0a0014&color=FF9EDB&line=D8A7F0&point=ffffff&hide_border=true" width="100%"/>
 
