@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:3d0a5c,100:ff6ec7&height=200&section=header&text=hey,%20it's%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=writing%20code,%20breaking%20things,%20not%20explaining%20myself&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://raw.githubusercontent.com/singhsakshi8322-gif/singhsakshi8322-gif/main/banner.jpg" width="100%"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 python, a bit of JS, learning as i go.
 i don't chase perfection. i barely chase deadlines.
-
+team kuromi, never team melody.
 
 ---
 
@@ -45,13 +45,9 @@ i don't chase perfection. i barely chase deadlines.
 
 ---
 
-### unbothered log 🌙
+### unbothered log 🦇
 
 > it works. don't ask how.
 
- "Everyone’s always telling you to be humble.  When was the last time someone told you to be great?                                                                                                                                                                                                     -- YE
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:3d0a5c,100:0a0014&height=100&section=footer"/>
+"Everyone’s always telling you to be humble.  When was the last time someone told you to be great?
+</div>
