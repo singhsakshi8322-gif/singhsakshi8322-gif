@@ -10,7 +10,7 @@
 
 python, a bit of JS, learning as i go.
 i don't chase perfection. i barely chase deadlines.
-i show up, i build, i log off. 🦇
+
 
 ---
 
@@ -49,15 +49,7 @@ i show up, i build, i log off. 🦇
 
 > it works. don't ask how.
 
-> debugging is just talking to myself professionally.
-
-> low effort, high output.
-
-> ask me nothing, i'll tell you less.
-
-> if it's not broken, i haven't touched it yet.
-
-> mid conversation, mid commit, same energy.
+ "Everyone’s always telling you to be humble.  When was the last time someone told you to be great?                                                                                                                                                                                                     -- YE
 
 ---
 
