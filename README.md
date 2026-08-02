@@ -34,6 +34,7 @@ python. js. barely anything else.
 **unbothered log**
 
 > it works. don't ask how.
+> clock it
 
 > "Everyone’s always telling you to be humble.  When was the last time someone told you to be great?                                                                                                                                                                                          -- YE
 </div>
