@@ -11,7 +11,7 @@
 
   <!-- Socials -->
   <p>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=C084FC" /></a>
+    <a href="https://www.linkedin.com/in/sakshi-0b43b4326/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=C084FC" /></a>
     &nbsp;
     <a href="https://twitter.com"><img src="https://img.shields.io/badge/TWITTER-0D1117?style=for-the-badge&logo=x&logoColor=C084FC" /></a>
     &nbsp;
