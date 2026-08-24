@@ -15,8 +15,6 @@
     &nbsp;
     <a href="https://twitter.com"><img src="https://img.shields.io/badge/TWITTER-0D1117?style=for-the-badge&logo=x&logoColor=C084FC" /></a>
     &nbsp;
-    <a href="https://instagram.com"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=EC4899" /></a>
-    &nbsp;
     <a href="https://codepen.io"><img src="https://img.shields.io/badge/CODEPEN-0D1117?style=for-the-badge&logo=codepen&logoColor=C084FC" /></a>
   </p>
 
